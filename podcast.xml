@@ -12,8 +12,7 @@
             <itunes:name>John Beatty</itunes:name>
             <itunes:email>internet@johndbeatty.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="URL to your podcast logo image" />
-        <!-- Podcast episodes -->
+        <itunes:image href="http://35.241.49.79/podcast.webp" />
         <item>
             <title>Test</title>
             <itunes:author>John Beatty</itunes:author>
